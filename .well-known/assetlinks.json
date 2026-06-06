@@ -12,7 +12,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.mohammadalboushi.livewassouf",
-      "sha256_cert_fingerprints": ["66:97:02:19:DA:80:DD:6A:C6:D2:C4:19:DB:75:6F:BD:CB:BB:60:70:1F:DA:7E:E3:B2:A7:52:86:50:06:AA:BF"]
+      "sha256_cert_fingerprints": ["47:7B:81:F1:62:B4:F7:C4:9C:06:32:83:B6:3C:43:40:13:CD:40:08:72:FB:F0:7A:C6:03:9E:20:4F:2A:C0:31"]
     }
   }
 ]
